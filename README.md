@@ -11,5 +11,6 @@ If you have specific questions, please feel free to reach out to miles_porter(at
 Thanks, and "May the odds be ever in your favor!"
 
 <img src="https://imgs.xkcd.com/comics/job_interview.png">
+<a href="https://xkcd.com/1293/">xkcd #1293</a>
 
 The Trimble Transportation Data Science Team
