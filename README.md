@@ -8,6 +8,8 @@ This repository contains data files relevant to the Trimble Transportation Data 
 
 If you have specific questions, please feel free to reach out to miles_porter(at)trimble(dot)com.
 
-Thanks, and may the odds be ever in your favor!
+Thanks, and "May the odds be ever in your favor!"
+
+<img src="https://imgs.xkcd.com/comics/job_interview.png">
 
 The Trimble Transportation Data Science Team
